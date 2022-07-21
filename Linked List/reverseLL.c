@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<limits.h> // hold the minimun value  INT MIN Macro;
-
+// this is code is written by ashu 
 struct Node
   {
     int data ;
